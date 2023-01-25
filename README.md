@@ -8,4 +8,4 @@ Simple group video chat app built using plain HTML, CSS, JavaScript and the Agor
 
 
 # Projects Page
-<img src="./coverpic.jpg">  
+<img src="./coverpic.jpeg">  
